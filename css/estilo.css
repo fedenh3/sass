@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  text-align: center;
+  background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%); }
+
+.anchoFooter {
+  margin-top: 30px;
+  background-color: white;
+  text-align: center; }
+
+.encabezado {
+  color: black;
+  font-weight: bold;
+  background-color: #d669b2; }
+
+.container {
+  font-family: Arial, Helvetica, sans-serif; }
+  .container .h1 {
+    font-weight: bold; }
+  .container .p {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive; }
